@@ -13,6 +13,8 @@ Realizar un análisis de sentimiento de 1,000 tweets para saber el consenso gene
 
 ## Resultados
 
+El proceso realizado se encuentra en el siguiente [Notebook](src/snscrape_sentimiento_trump.ipynb)
+
 Se obtienen los siguientes datos (primeras 5 líneas de la tabla):
 
 |date                     |id                 |content                                                                                                                                                                                                                                                                                                            |username       |like_count|retweet_count|

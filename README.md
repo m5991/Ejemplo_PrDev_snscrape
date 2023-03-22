@@ -27,6 +27,6 @@ Se gráfican los resultados en la siguiente gráfica de pastel:
 
 ![](results/pie.png)
 
-# Referencias
+## Referencias
 
 Algunos de los materiales de consulta utilizados se encuentran en este [documento](doc/Referencias.md).

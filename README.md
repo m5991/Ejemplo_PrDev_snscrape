@@ -13,7 +13,7 @@ Realizar un análisis de sentimiento de 1,000 tweets para saber el consenso gene
 
 ## Resultados
 
-Se obtienen los siguientes datos:
+Se obtienen los siguientes datos (primeras 5 líneas de la tabla):
 
 |date                     |id                 |content                                                                                                                                                                                                                                                                                                            |username       |like_count|retweet_count|
 |-------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------|-------------|

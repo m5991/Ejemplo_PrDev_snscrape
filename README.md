@@ -15,7 +15,17 @@ Realizar un análisis de sentimiento de 1,000 tweets para saber el consenso gene
 
 Se obtienen los siguientes datos:
 
+|date                     |id                 |content                                                                                                                                                                                                                                                                                                            |username       |like_count|retweet_count|
+|-------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------|-------------|
+|2023-03-22 04:12:14+00:00|1638393121863094272|#PensándoloBien (programa completo) con Gonzalo Sánchez - 21/03/23 https://t.co/x29DQXxtws vía @Aenfoco #BuenMartes #corralito IVA al 24% El PBI Ventura #DonaldTrump Duggan Corea del Norte Corazza Otoño Ferraresi                                                                                               |Aenfoco        |0         |0            |
+|2023-03-22 04:12:07+00:00|1638393090783191040|@JoJoFromJerz 8 years and counting....so when's it supposed to happen?  The "End of Donald Trump", I mean?                                                                                                                                                                                                         |whipplewart    |0         |0            |
+|2023-03-22 04:12:05+00:00|1638393082273226753|@noclador Who's Donald Trump?                                                                                                                                                                                                                                                                                      |Zatananas      |0         |0            |
+|2023-03-22 04:12:03+00:00|1638393075138437122|Donald trump is NOT a Republican !!!!!He is a Communist Reality TV Star / business man/ Satan                                                                                                                                                                                                                      |EricaGotcha    |0         |0            |
+|2023-03-22 04:12:01+00:00|1638393064619233281|Hey Jim Jordan Your committee is a joke, especially since you are head of it . The only thing that has been weaponized is your brains . Look no further it's in your head . You Donald Trump wanna be !                                                                                                            |LKaye2         |0         |0            |
+
 Se gráfican los resultados en la siguiente gráfica de pastel:
+
+![](results/pie.png)
 
 # Referencias
 
